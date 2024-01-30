@@ -25,6 +25,6 @@ Imagine a world where evaluating resumes is no longer a daunting task but an exh
 ## 🌟 Getting Started: Unleash the Magic
 1. **Summon the Repository:** Begin your quest by summoning this repository to your local realm
    ```bash
-   git clone 
+   git clone https://github.com/Prashantkhobragade/Smart_ATS_Gemini-Pro.git
    ```
 
