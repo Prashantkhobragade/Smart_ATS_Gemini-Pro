@@ -28,3 +28,19 @@ Imagine a world where evaluating resumes is no longer a daunting task but an exh
    git clone https://github.com/Prashantkhobragade/Smart_ATS_Gemini-Pro.git
    ```
 
+2. **Enchant Dependencies:** Equip your magical toolkit with Python and the necessary libraries by enchanting them with pip
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Empower with Google Magic:** Harness the power of Google's mystical API by obtaining your own API key and imbuing it within a sacred .env file.
+   ```bash
+   GOOGLE_API_KEY=your-api-key
+   ```
+
+4. **Cast the Spell:** Cast the enchantment to awaken Smart ATS using Streamlit's incantation.
+   ```bash
+   streamlit run app.py
+
+   ```
+
