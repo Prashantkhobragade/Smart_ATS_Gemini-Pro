@@ -45,4 +45,4 @@ Imagine a world where evaluating resumes is no longer a daunting task but an exh
    ```
 
 ## project sc
-![web app](SMART ATS.png)
+![web app]("C:\Users\ASUS PC\Pictures\Screenshots\SMART ATS.png")
