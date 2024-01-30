@@ -43,6 +43,3 @@ Imagine a world where evaluating resumes is no longer a daunting task but an exh
    streamlit run app.py
 
    ```
-
-## project sc
-![web app]("C:\Users\ASUS PC\Pictures\Screenshots\SMART ATS.png")
